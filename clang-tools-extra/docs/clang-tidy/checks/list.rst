@@ -277,6 +277,7 @@ Clang-Tidy Checks
    `readability-const-return-type <readability-const-return-type.html>`_,
    `readability-container-size-empty <readability-container-size-empty.html>`_,
    `readability-convert-member-functions-to-static <readability-convert-member-functions-to-static.html>`_,
+   `readability-declare-near-usage <readability-declare-near-usage.html>`_,
    `readability-delete-null-pointer <readability-delete-null-pointer.html>`_,
    `readability-deleted-default <readability-deleted-default.html>`_,
    `readability-else-after-return <readability-else-after-return.html>`_,

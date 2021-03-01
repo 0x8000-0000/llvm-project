@@ -9,6 +9,7 @@ add_clang_library(clangTidyReadabilityModule
   ConstReturnTypeCheck.cpp
   ContainerSizeEmptyCheck.cpp
   ConvertMemberFunctionsToStatic.cpp
+  DeclareNearUsageCheck.cpp
   DeleteNullPointerCheck.cpp
   DeletedDefaultCheck.cpp
   ElseAfterReturnCheck.cpp

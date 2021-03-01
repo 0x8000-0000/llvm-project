@@ -322,6 +322,11 @@ New checks
 
   Diagnoses every integer to pointer cast.
 
+- New :doc:`readability-declare-near-usage
+  <clang-tidy/checks/readability-declare-near-usage>` check.
+
+  FIXME: add release notes.
+
 - New :doc:`readability-function-cognitive-complexity
   <clang-tidy/checks/readability-function-cognitive-complexity>` check.
 
