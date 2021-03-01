@@ -72,6 +72,11 @@ The improvements are...
 New checks
 ^^^^^^^^^^
 
+- New :doc:`readability-variable-length
+  <clang-tidy/checks/readability-variable-length>` check.
+
+  Finds variables and function arguments whose names are too short.
+
 New check aliases
 ^^^^^^^^^^^^^^^^^
 
